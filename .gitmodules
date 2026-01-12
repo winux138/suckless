@@ -10,3 +10,6 @@
 [submodule "slstatus"]
 	path = slstatus
 	url = git@github.com:winux138/slstatus.git
+[submodule "slock"]
+	path = slock
+	url = https://git.suckless.org/slock
